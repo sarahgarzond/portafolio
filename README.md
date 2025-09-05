@@ -1,29 +1,31 @@
-# Modern Portfolio Template 🚀
+# 🌐 Sarah Garzón Díaz — Portfolio Website  
 
-A sleek, modern portfolio template built with React, Vite, and Framer Motion. This template features a stunning black and white design with smooth animations and a polished user interface.
+This repository contains the source code for my **personal portfolio website**, showcasing my CV, skills, projects, and professional experiences. The site is designed with a modern, minimalist style and smooth animations to provide a polished user experience.  
 
-## ✨ Features
+🔗 Live Website: [sarahgarzondiaz.com](https://sarahgarzondiaz.com) *(or your GitHub Pages link until you connect your domain)*  
 
-- 🎨 Minimalist black and white design
-- ⚡ Built with React + Vite for lightning-fast performance
-- 🎭 Smooth animations powered by Framer Motion
-- 📱 Fully responsive design
-- 🌙 Dark mode optimized
-- 🎯 SEO friendly
-- 🚀 Modern development practices
-- 📝 Blog section included
-- 💼 Project showcase
-- 📬 Contact form
-- 🔍 Easy to customize
+## 👩‍💻 About Me  
+I am a student with a background in **data science, software development, and business management**. Passionate about building technology-driven solutions, I combine technical expertise with management knowledge to create impactful projects. This website serves as my personal hub to present my **skills, portfolio, and insights**.  
 
-## 🛠️ Tech Stack
+## ✨ Features  
+- 🎨 Minimalist modern design  
+- ⚡ Built with **React + Vite** for fast performance  
+- 🎭 Smooth animations with **Framer Motion**  
+- 📱 Fully responsive on all devices  
+- 🌙 Dark mode optimized  
+- 🎯 SEO friendly  
+- 💼 Project showcase & CV integration  
+- 📝 Blog/Insights section for articles  
+- 📬 Contact form  
+- 🔍 Easy to customize and expand  
 
-- React
-- Vite
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-- Lucide Icons
+## 🛠️ Tech Stack  
+
+- **Frontend:** React, Vite, TypeScript  
+- **Styling:** Tailwind CSS  
+- **Animations:** Framer Motion  
+- **Icons:** Lucide Icons  
+- **Deployment:** GitHub Pages / Vercel  
 
 ## 🚀 Getting Started
 
